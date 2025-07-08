@@ -1,7 +1,5 @@
 # Data Science Projects
 
-Projects I worked on while attending the Data Science Bootcamp at TripleTen.
-
 | Project | Title | Description |
 |---------|-------|-------------|
 | 1 | **AI Data Science Assistant** | Created a custom AI assistant capable of answering questions about datasets and generating exploratory insights using natural language queries, powered by large language models and LangChain with retrieval-augmented generation (RAG). |
